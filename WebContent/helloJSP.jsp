@@ -7,7 +7,8 @@
 </head>
 <body>
 
-안녕 JSP
+안녕 JSP<br/>
+hi JSP  
 
 </body>
 </html>
